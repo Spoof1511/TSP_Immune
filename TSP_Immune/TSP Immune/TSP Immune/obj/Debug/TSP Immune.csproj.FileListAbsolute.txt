@@ -1,0 +1,56 @@
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe.config
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\bin\Debug\TSP Immune.pdb
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csprojResolveAssemblyReference.cache
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\MainWindow.g.cs
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\App.g.cs
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.cache
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.lref
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\MainWindow.baml
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune.g.resources
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP_Immune.Properties.Resources.resources
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csproj.GenerateResource.Cache
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune.exe
+c:\users\mister\documents\visual studio 2015\Projects\TSP Immune\TSP Immune\obj\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe.config
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\bin\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\App.g.cs
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.cache
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.lref
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\MainWindow.baml
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune.g.resources
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP_Immune.Properties.Resources.resources
+C:\Users\Alan\Desktop\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe.config
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\bin\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\App.g.cs
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.cache
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.lref
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\MainWindow.baml
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune.g.resources
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP_Immune.Properties.Resources.resources
+C:\Users\Alan\Desktop\кек\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe.config
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\bin\Debug\TSP Immune.exe
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\bin\Debug\TSP Immune.pdb
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\MainWindow.g.cs
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\App.g.cs
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.cache
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune_MarkupCompile.lref
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\MainWindow.baml
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune.g.resources
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP_Immune.Properties.Resources.resources
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\TSP_Immune\TSP Immune\TSP Immune\obj\Debug\TSP Immune.csprojResolveAssemblyReference.cache

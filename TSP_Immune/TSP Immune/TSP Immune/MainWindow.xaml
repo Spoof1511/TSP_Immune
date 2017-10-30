@@ -1,0 +1,60 @@
+﻿<Window x:Class="TSP_Immune.MainWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TSP_Immune"
+        mc:Ignorable="d"
+        Title="TSP Solver" SizeToContent="WidthAndHeight">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem FontFamily="Times New Roman" FontSize="14"  Header="File">
+                <MenuItem Header="Open" Click="Open_Click"></MenuItem>
+                <MenuItem Header="Save" Click="Save_Click"></MenuItem>
+                <MenuItem Header="Close" Click="Close_Click"></MenuItem>
+            </MenuItem>
+            
+           
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="139"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="5,5,0,5">
+                <TextBlock FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">Кол-во городов</TextBlock>
+                <TextBox x:Name="CitiesCountTextBox" FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">20</TextBox>
+                <TextBlock FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">Кол-во нейронов</TextBlock>
+                <TextBox x:Name="NeuronsCountTextBox" FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">60</TextBox>
+                <TextBlock FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">Итераций за такт</TextBlock>
+                <TextBox x:Name="IterationsCountTextBox" FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">10</TextBox>
+                <TextBlock x:Name="Studing_Coef" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">Коэф. обучаемости</TextBlock>
+                <TextBox x:Name="Stud_Coef_Textbox" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic" >2</TextBox>
+                <TextBlock x:Name="Neightbourhood_Koef" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic"> Коэф. соседства н-ов</TextBlock>
+                <TextBox x:Name="Neightbourhood_Koef_Textbox" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">0,25</TextBox>
+                <Button Click="Generate_Cities_Buton"  FontFamily="Times New Roman" FontStyle="Italic" FontSize="14">Generate Cities</Button>
+                <Button x:Name="StartButton" Click="Start_Algoritm"  FontFamily="Times New Roman" FontStyle="Italic" FontSize="14" Content="Start"></Button>
+                <Button Click="StopButton_OnClick" FontFamily="Times New Roman" FontStyle="Italic" FontSize="14" Content="Stop"/>
+                <Label x:Name="Iter" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">Кол-во итераций:</Label>
+                <Label x:Name="IterationCount" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic" Content="0"></Label>
+                <Label x:Name="Length" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">Вес получ-го цикла:</Label>
+                <Label x:Name="Length_label" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">0</Label>
+                <Label x:Name="ZoomLabel" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic">Масштабирование:</Label>
+                <Slider Name="ZoomSlider" Width="80" Minimum="1" Maximum="10" Value="1"/>
+                <TextBlock Margin="4,0,0,0" VerticalAlignment="Center" Text="{Binding ElementName=ZoomSlider, Path=Value, StringFormat=F1}"/>
+            </StackPanel>
+            <Border Grid.Column="2" Width="1200" Height="650" BorderBrush="Black" BorderThickness="1"/>
+            <ScrollViewer Grid.Column="2" Name="TrackScrollViewer" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.Row="1" Margin="10">
+                <Canvas  x:Name="Canvas" Width="1200" Height="650"  >
+                    <Canvas.LayoutTransform>
+                        <ScaleTransform ScaleX="{Binding ElementName=ZoomSlider, Path=Value}" 
+                                ScaleY="{Binding ElementName=ZoomSlider, Path=Value}"/>
+                    </Canvas.LayoutTransform>
+                </Canvas>
+            </ScrollViewer>
+            <Label x:Name="ProgTitle" FontFamily="Times New Roman" FontSize="14" FontStyle="Italic"  Content="SOM using ideas  &#xD;&#xA;from immune &#xA;system to solve&#xA;Travelling Salesman&#xD;&#xA;Problem." Margin="9,423,-1,86"/>
+        </Grid>
+    </DockPanel>
+</Window>
